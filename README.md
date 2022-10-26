@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MCJiu
 - 👀 I’m interested in C language and Hexo blog.
-- 🌱 I’m currently learning Beijing University of Posts and Telecommunications (BUPT)
+- 🌱 I’m currently learning in Beijing University of Posts and Telecommunications (BUPT)
 - 💞️ I’m looking to collaborate on some projects, maybe. However, I'm a greenhand now.
 - 📫 How to reach me : 
 
