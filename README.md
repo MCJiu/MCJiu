@@ -1,10 +1,10 @@
 👋 Hi, I’m @MCJiu
 
-👀 I’m interested in C language and Hexo blog.
+👀 I’m interested in C/C++ and Python Programming.
 
 🌱 I’m currently learning in Beijing University of Posts and Telecommunications (BUPT)
 
-💞️ I’m looking to collaborate on some projects, maybe. However, I'm a greenhand now.
+💞️ I’m developing a minesweeper game in C++. if scheduled, I will open source this project in July, 2023.
 
 📫 How to reach me :  
 
