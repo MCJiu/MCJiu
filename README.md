@@ -18,7 +18,7 @@ Gallery
 
 ![BUPT Library](https://s2.loli.net/2022/10/31/aHLTwX3e724tOWC.jpg)
 
-- Donghu, Wuhan, Hebei Province
+- Donghu, Wuhan, Hubei Province
 
 ![Donghu, Wuhan, Hebei Province](https://s2.loli.net/2022/10/31/nwPXYGN97UL5cta.jpg)
 
