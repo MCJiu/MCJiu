@@ -16,11 +16,11 @@ Gallery
 
 - BUPT Library
 
-![BUPT Library](https://s2.loli.net/2022/10/31/aHLTwX3e724tOWC.jpg)
+![BUPT Library](BUPTLib.jpg)
 
 - Donghu, Wuhan, Hubei Province
 
-![Donghu, Wuhan, Hebei Province](https://s2.loli.net/2022/10/31/nwPXYGN97UL5cta.jpg)
+![Donghu, Wuhan, Hebei Province](Donghu.jpg)
 
 <!---
 MCJiu/MCJiu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
