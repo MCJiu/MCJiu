@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning in Beijing University of Posts and Telecommunications (BUPT)
 
-💞️ I’m developing a minesweeper game in C++. if scheduled, I will open source this project in July, 2023.
+💞️ I developed [a simple minesweeper game](https://github.com/MCJiu/Minesweeper_GUI) this spring.
 
 📫 How to reach me :  
 
